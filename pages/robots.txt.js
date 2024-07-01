@@ -1,3 +1,5 @@
+
+/*
 import { DOMAIN } from "../config";
 
 const generateRobotsTxt = () => {
@@ -8,7 +10,7 @@ Sitemap: ${DOMAIN}/sitemap.xml
     return robotsTxtContent;
 };
 
-export const getStaticProps = async ({ res }) => {
+export const getServerSideProps = async ({ res }) => {
     const robotsTxtContent = generateRobotsTxt();
     res.setHeader("Content-Type", "text/plain");
     res.write(robotsTxtContent);
@@ -18,3 +20,5 @@ export const getStaticProps = async ({ res }) => {
 
 const RobotsTxt = () => { return null; };
 export default RobotsTxt;
+
+*/

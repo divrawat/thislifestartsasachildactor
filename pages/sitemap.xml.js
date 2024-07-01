@@ -1,3 +1,5 @@
+
+/*
 import { DOMAIN, chaptersData, URL_PREFIX } from "../config";
 import { format } from 'date-fns';
 
@@ -37,3 +39,4 @@ export async function getServerSideProps({ res }) {
 
 
 export default generateXmlSitemap;
+*/
