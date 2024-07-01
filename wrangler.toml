@@ -1,6 +1,0 @@
-name = "vinland-saga"
-route = {
-  "*": {
-    src = "pages"  # Point to your Next.js pages directory
-  }
-}
