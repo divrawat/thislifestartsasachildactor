@@ -1,0 +1,6 @@
+name = "vinland-saga"
+route = {
+    "*": {
+        src = "pages"
+    }
+}
