@@ -1,6 +1,6 @@
 
 // export const DOMAIN = 'http://localhost:3000';
-export const DOMAIN = 'https://www.thislifestartsasachildactor.in.net/';
+export const DOMAIN = 'https://www.thislifestartsasachildactor.in.net';
 
 
 export const MANGA_DESCRIPTION = `<a href="${DOMAIN}"><u>This Life Starts as a Child Actor</u></a> is a compelling novel that delves into the tumultuous journey of a young actor navigating the complexities of fame and identity. Set against the backdrop of Hollywood, it follows the protagonist's rise from innocence to stardom, exploring the sacrifices and challenges along the way. `;
