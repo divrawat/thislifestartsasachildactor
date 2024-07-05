@@ -30,7 +30,7 @@ export const logo = <img src={`${LOGO_URL}`} alt="Logo" className="h-[75px] w-[7
 export const APP_NAME = 'This Life Starts as a Child Actor';
 export const NavbarName = "TLSAACA";
 
-export const APP_DESCRIPTION = `Read ${MANGA_NAME} manga all chapters online. Alex Summers, a young actor catapulted into the glittering world of Hollywood at an early age. As Alex navigates the highs and lows of fame, the novel explores their personal growth, relationships, and the challenges of maintaining authenticity amidst the pressures of stardom. Through Alex's experiences, the story delves into themes of ambition, identity, and the transformative power of success in the entertainment industry.`;
+export const APP_DESCRIPTION = `Read ${MANGA_NAME} manhwa or manga all chapters online. Alex Summers, a young actor catapulted into the glittering world of Hollywood at an early age. As Alex navigates the highs and lows of fame, the novel explores their personal growth, relationships, and the challenges of maintaining authenticity amidst the pressures of stardom. Through Alex's experiences, the story delves into themes of ambition, identity, and the transformative power of success in the entertainment industry.`;
 
 export const DISQUS_SHORTNAME = "my-cms-7";
 
